@@ -1,3 +1,4 @@
+https://blog.lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html
 https://blog.lgf.im/2020/kms.html
 https://blog.lgf.im/2020/bake-sweet-potato.html
 https://blog.lgf.im/2020/linux-suid.html

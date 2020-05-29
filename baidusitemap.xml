@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
+    <lastmod>2020-05-29</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2020/set-proxy-for-git.html</loc>
+    <lastmod>2020-05-29</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2018/simple-regular-expression-use.html</loc>
+    <lastmod>2020-05-29</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2019/some-git-skills.html</loc>
+    <lastmod>2020-05-29</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2020/speedup-docker-pull.html</loc>
+    <lastmod>2020-05-29</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2020/speedup-github-page.html</loc>
+    <lastmod>2020-05-29</lastmod>
+  </url>  <url>
     <loc>https://blog.lgf.im/2018/sql-to-select-some-base-info.html</loc>
     <lastmod>2020-05-29</lastmod>
   </url>  <url>
@@ -38,24 +56,6 @@
     <lastmod>2020-05-29</lastmod>
   </url>  <url>
     <loc>https://blog.lgf.im/2018/send-mail-via-endmail-service.html</loc>
-    <lastmod>2020-05-29</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
-    <lastmod>2020-05-29</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2020/set-proxy-for-git.html</loc>
-    <lastmod>2020-05-29</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2018/simple-regular-expression-use.html</loc>
-    <lastmod>2020-05-29</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2019/some-git-skills.html</loc>
-    <lastmod>2020-05-29</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2020/speedup-docker-pull.html</loc>
-    <lastmod>2020-05-29</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2020/speedup-github-page.html</loc>
     <lastmod>2020-05-29</lastmod>
   </url>  <url>
     <loc>https://blog.lgf.im/2020/how-do-onion-service-work.html</loc>

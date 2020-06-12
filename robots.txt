@@ -1,18 +1,6 @@
 User-agent: *
-
-Allow: /
-Allow: /about/
-Allow: /archives/ 
-Allow: /tags/ 
-Allow: /categories/
-Allow: /donate/
-Allow: /2020/
-Allow: /2019/
-Allow: /2018/
-
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
-
 Sitemap: /sitemap.xml
 Sitemap: /baidusitemap.xml

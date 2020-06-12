@@ -4,6 +4,9 @@
     <loc>https://blog.lgf.im/2018/xss-payload.html</loc>
     <lastmod>2020-06-12</lastmod>
   </url>  <url>
+    <loc>https://blog.lgf.im/2020/yuketang-exam-block-report.html</loc>
+    <lastmod>2020-06-12</lastmod>
+  </url>  <url>
     <loc>https://blog.lgf.im/2018/sql-to-select-some-base-info.html</loc>
     <lastmod>2020-06-12</lastmod>
   </url>  <url>
@@ -58,6 +61,21 @@
     <loc>https://blog.lgf.im/2020/speedup-github-page.html</loc>
     <lastmod>2020-06-12</lastmod>
   </url>  <url>
+    <loc>https://blog.lgf.im/2020/mysql-concat-concat-ws-group-concat.html</loc>
+    <lastmod>2020-06-12</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
+    <lastmod>2020-06-12</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
+    <lastmod>2020-06-12</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
+    <lastmod>2020-06-12</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2020/how-do-onion-service-work.html</loc>
+    <lastmod>2020-06-12</lastmod>
+  </url>  <url>
     <loc>https://blog.lgf.im/2018/if-time-could-stop-at-the-moment-when-we-first-met.html</loc>
     <lastmod>2020-06-12</lastmod>
   </url>  <url>
@@ -82,18 +100,6 @@
     <loc>https://blog.lgf.im/2020/mitm-https-hijack-github.html</loc>
     <lastmod>2020-06-12</lastmod>
   </url>  <url>
-    <loc>https://blog.lgf.im/2020/mysql-concat-concat-ws-group-concat.html</loc>
-    <lastmod>2020-06-12</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
-    <lastmod>2020-06-12</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
-    <lastmod>2020-06-12</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
-    <lastmod>2020-06-12</lastmod>
-  </url>  <url>
     <loc>https://blog.lgf.im/2018/crawl-all-the-courses-of-the-educational-administration-system-and-store-them-in-the-database.html</loc>
     <lastmod>2020-06-12</lastmod>
   </url>  <url>
@@ -110,9 +116,6 @@
     <lastmod>2020-06-12</lastmod>
   </url>  <url>
     <loc>https://blog.lgf.im/2020/hack-hackbar.html</loc>
-    <lastmod>2020-06-12</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2020/how-do-onion-service-work.html</loc>
     <lastmod>2020-06-12</lastmod>
   </url>  <url>
     <loc>https://blog.lgf.im/2018/block-all-IPs-in-a-country.html</loc>

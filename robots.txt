@@ -5,6 +5,7 @@ Allow: /about/
 Allow: /archives/ 
 Allow: /tags/ 
 Allow: /categories/
+Allow: /donate/
 Allow: /2020/
 Allow: /2019/
 Allow: /2018/

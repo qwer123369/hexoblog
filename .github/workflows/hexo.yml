@@ -1,0 +1,54 @@
+name: Hexo CICD
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  deploy:
+    name: hexo build & deploy
+    runs-on: ubuntu-18.04
+    
+    steps:
+    - uses: actions/checkout@master
+      with:
+        submodules: true
+    - uses: actions/setup-node@master
+      with:
+        node-version: 12.x
+   
+    - name: replace cdn url
+      id: replace
+      run: |
+        tagname=$(date +%y%j%H%M)
+        sed -i "s/hexoblog/hexoblog@$tagname/g" _config.yml
+        sed -i "s/hexoblog/hexoblog@$tagname/g" themes/cactus/_config.yml
+        echo "::set-output name=tagname::$tagname"
+
+    - name: Installation
+      run: |
+        npm install
+        npm install -g hexo-cli gulp
+        
+    - name: Generate
+      run: hexo clean && hexo g && gulp && hexo d
+    
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        cname: g.blog.lgf.im
+
+    - name: Create Release
+      uses: actions/create-release@latest
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ steps.replace.outputs.tagname }}
+        release_name: ${{ steps.replace.outputs.tagname }}
+        target_commitish: gh-pages
+        body: Automatic generated
+        draft: false
+        prerelease: true

@@ -1,0 +1,12 @@
+[
+   {
+      "name":"keyword bot",
+      "url":"https://github.com/zu1k/tg-keyword-reply-bot",
+      "desc":"一个根据关键词和正则表达式进行回复和管理的tg机器人."
+   },
+   {
+      "name":"BlogStorm",
+      "url":"https://github.com/blogstorm",
+      "desc":"基于RSS的博文汇集阅读和智能推荐系统."
+   }
+]

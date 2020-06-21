@@ -5,7 +5,7 @@ date: 2020-03-17 09:38:42
 
 ## About Me
 
-<img src="https://cdn.jsdelivr.net/gh/zu1k/cdn@cdn/images/logo.jpg" width="120px" style="float:right; margin:8px;" />
+<img src="https://cdn.jsdelivr.net/gh/zu1k/cdn@cdn/images/logo.jpg" align="right" width="120px" style="float:right; margin:8px; width:120px;" />
 
 Hi, I'm zu1k.
 

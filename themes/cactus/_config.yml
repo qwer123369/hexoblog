@@ -19,7 +19,7 @@ nav:
   Articles: /archives/
   Tags: /tags/
   Search: /search/
-  RSS: /atom.xml
+  Feed: /feed/
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names

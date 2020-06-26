@@ -27,6 +27,30 @@ As for programming, I have learned java、python、golang and some javascript, I
 
 **Javascript** / **Html** / **Css** / **Vue.js**
 
+### Security
+
+#### Web
+
+**Burp Suite**
+
+**Xray**
+
+**HackerBar**
+
+#### Reverse
+
+**IDA**
+
+**JEB**
+
+**Ghidra**
+
+**GDB**
+
+#### PWN
+
+**Pwntools (python)**
+
 ## About this blog
 
 This blog is used to record my study, thinking and life.

@@ -31,25 +31,15 @@ As for programming, I have learned java、python、golang and some javascript, I
 
 #### Web
 
-**Burp Suite**
-
-**Xray**
-
-**HackerBar**
+Burp Suite \ Xray \ HackerBar
 
 #### Reverse
 
-**IDA**
-
-**JEB**
-
-**Ghidra**
-
-**GDB**
+IDA \ JEB \ Ghidra \ GDB
 
 #### PWN
 
-**Pwntools (python)**
+Pwntools (python)
 
 ## About this blog
 

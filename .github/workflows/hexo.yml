@@ -42,13 +42,13 @@ jobs:
         cname: g.blog.lgf.im
 
     - name: Create Release
-      uses: actions/create-release@latest
+      uses: actions/create-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ steps.replace.outputs.tagname }}
         release_name: ${{ steps.replace.outputs.tagname }}
-        target_commitish: gh-pages
+        commitish: gh-pages
         body: Automatic generated
         draft: false
         prerelease: true

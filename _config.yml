@@ -121,7 +121,7 @@ lazyload:
   enable: true 
   onlypost: false
   cdn:
-    enabled: true
+    enabled: false
     url: https://cdn.jsdelivr.net/gh/zu1k/hexoblog
 
 

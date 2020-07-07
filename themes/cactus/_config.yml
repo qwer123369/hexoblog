@@ -165,5 +165,5 @@ gravatar:
   email: i@lgf.im
 
 cdn:
-  enabled: false
+  enabled: true
   url: https://cdn.jsdelivr.net/gh/zu1k/hexoblog

@@ -1,3 +1,4 @@
+https://blog.lgf.im/2020/brush-votes.html
 https://blog.lgf.im/2020/golang-reverse-thinking.html
 https://blog.lgf.im/2020/xray-cracker.html
 https://blog.lgf.im/2020/yuketang-exam-block-report.html

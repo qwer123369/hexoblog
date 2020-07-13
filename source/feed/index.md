@@ -5,7 +5,9 @@ date: 2020-06-21 09:28:16
 
 ## 通过RSS订阅
 
-RSS订阅链接：[https://blog.lgf.im/atom.xml](https://blog.lgf.im/atom.xml)
+Atom格式链接：[https://blog.lgf.im/atom.xml](https://blog.lgf.im/atom.xml)
+
+RSS2格式：[https://blog.lgf.im/rss2.xml](https://blog.lgf.im/rss2.xml)
 
 ## 通过邮件订阅
 

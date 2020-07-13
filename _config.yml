@@ -136,3 +136,22 @@ baidu_url_submit:
   token: 9PhLZFDcrysRF7UM ## 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
   path: baidu_urls.txt ## 文本文档的地址， 新链接会保存在此文本文档里
 
+
+feed:
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: https://cdn.jsdelivr.net/gh/zu1k/cdn@cdn/images/logo.jpg
+  autodiscovery: true
+  template:
+    - ./source/custom.xml
+  

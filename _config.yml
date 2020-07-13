@@ -139,11 +139,11 @@ baidu_url_submit:
 
 feed:
   type:
-    - atom
     - rss2
+    - atom
   path:
-    - atom.xml
     - rss2.xml
+    - atom.xml
   limit: 20
   hub:
   content:

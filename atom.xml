@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/css" href="/css/rss.css" ?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -17,7 +16,7 @@
     
     <description>Hi, I&#39;m zu1k, a boy dreaming of traveling around the world. 
 This blog is used to record my study, thinking and life.</description>
-    <pubDate>Mon, 13 Jul 2020 14:14:48 GMT</pubDate>
+    <pubDate>Mon, 13 Jul 2020 14:18:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -25,28 +24,22 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/brush-votes.html</link>
       <guid>https://blog.lgf.im/2020/brush-votes.html</guid>
       <pubDate>Mon, 13 Jul 2020 12:06:48 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;相信大家都经历过朋友圈、群组里各种转发求投票的消息，有需求就会有刷票&lt;/p&gt;
+            &lt;p&gt;相信大家都经历过朋友圈、群组里各种转发求投票的消息，有需求就会有刷票&lt;/p&gt;
 &lt;p&gt;关于刷票我自己也稍微研究过，这里说的刷票是指刷投票，不是黄牛那种抢票&lt;/p&gt;
-&lt;h2 id=&quot;初识刷票&quot;&gt;&lt;a href=&quot;#初识刷票&quot; class=&quot;headerlink&quot;</description>
+&lt;h2 id=&quot;初识刷票&quot;&gt;&lt;a href=&quot;#初识刷票&quot; class=&quot;headerlink&quot;
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/brush-votes.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -54,31 +47,21 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/golang-reverse-thinking.html</link>
       <guid>https://blog.lgf.im/2020/golang-reverse-thinking.html</guid>
       <pubDate>Sat, 20 Jun 2020 09:48:53 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;在前段时间对xray进行逆向过程中，发现golang编译的程序会有巨多函数，不能说都是多余的，但是大部分函数的确不是用户编写的代码生成的，而是golang运行时和各种库所需要的东西&lt;/p&gt;
-&lt;p&gt;同时，因为去除了符号表，这些大量的非实际业务代码会对我们逆向工作造成极大困难，</description>
+            &lt;p&gt;在前段时间对xray进行逆向过程中，发现golang编译的程序会有巨多函数，不能说都是多余的，但是大部分函数的确不是用户编写的代码生成的，而是golang运行时和各种库所需要的东西&lt;/p&gt;
+&lt;p&gt;同时，因为去除了符号表，这些大量的非实际业务代码会对我们逆向工作造成极大困难，
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/reverse/">reverse</category>
-      
-      <category domain="https://blog.lgf.im/tags/golang/">golang</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/golang-reverse-thinking.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -86,33 +69,21 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/xray-cracker.html</link>
       <guid>https://blog.lgf.im/2020/xray-cracker.html</guid>
       <pubDate>Thu, 18 Jun 2020 01:06:25 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;blockquote&gt;
-&lt;p&gt;首先感谢 长亭科技 提供 xray 这款非常方便非常好用的安全工具&lt;br&gt;俗话说：没有人破解的工具不是好工具&lt;br&gt;根据没有任何数据支持的统计，大部分安全研究人员使用的安全工具都是盗版&lt;br&gt;包括但不限于： IDA \ JEB \</description>
+            &lt;blockquote&gt;
+&lt;p&gt;首先感谢 长亭科技 提供 xray 这款非常方便非常好用的安全工具&lt;br&gt;俗话说：没有人破解的工具不是好工具&lt;br&gt;根据没有任何数据支持的统计，大部分安全研究人员使用的安全工具都是盗版&lt;br&gt;包括但不限于： IDA \ JEB \
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/cracker/">cracker</category>
-      
-      <category domain="https://blog.lgf.im/tags/keygen/">keygen</category>
-      
-      <category domain="https://blog.lgf.im/tags/xray/">xray</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/xray-cracker.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -120,24 +91,14 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/yuketang-exam-block-report.html</link>
       <guid>https://blog.lgf.im/2020/yuketang-exam-block-report.html</guid>
       <pubDate>Fri, 12 Jun 2020 12:23:46 GMT</pubDate>
+      <description>
       
-      <description>学校使用雨课堂进行在线考试，测试后发现会检测切屏并拍照上传，通过对js代码的分析理清雨课堂监测切屏和上传异常照片的方法，通过插件进行屏蔽</description>
+        学校使用雨课堂进行在线考试，测试后发现会检测切屏并拍照上传，通过对js代码的分析理清雨课堂监测切屏和上传异常照片的方法，通过插件进行屏蔽
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/exam/">exam</category>
-      
-      <category domain="https://blog.lgf.im/tags/%E9%9B%A8%E8%AF%BE%E5%A0%82/">雨课堂</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/yuketang-exam-block-report.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -145,30 +106,22 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/dos-attack-on-360-university-user.html</link>
       <guid>https://blog.lgf.im/2020/dos-attack-on-360-university-user.html</guid>
       <pubDate>Fri, 29 May 2020 06:01:45 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;前段时间在360网络安全大学听免费的网络安全直播课，里面的老师有一些讲的不错&lt;/p&gt;
+            &lt;p&gt;前段时间在360网络安全大学听免费的网络安全直播课，里面的老师有一些讲的不错&lt;/p&gt;
 &lt;p&gt;对评论区进行测试，发现对评论和送花速度没有进行限制，送花有总数50次限制，但是评论总数没有限制&lt;/p&gt;
-&lt;p&gt;并且，后端性能非常好，能够即时处理所有评论并通过websocket发送给</description>
+&lt;p&gt;并且，后端性能非常好，能够即时处理所有评论并通过websocket发送给
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/dos/">dos</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/dos-attack-on-360-university-user.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -176,30 +129,22 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/why-reveice-connection-from-class-e-ip.html</link>
       <guid>https://blog.lgf.im/2020/why-reveice-connection-from-class-e-ip.html</guid>
       <pubDate>Mon, 25 May 2020 07:22:09 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;昨天看了一篇文章，文章最后使用IP logger进行钓鱼，最后记录下来的IP地址让我大跌眼镜&lt;/p&gt;
+            &lt;p&gt;昨天看了一篇文章，文章最后使用IP logger进行钓鱼，最后记录下来的IP地址让我大跌眼镜&lt;/p&gt;
 &lt;p&gt;万万没有想到，记录下来的IP地址竟然是是 244.242.105.51&lt;/p&gt;
-&lt;img</description>
+&lt;img
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/tor/">tor</category>
-      
-      <category domain="https://blog.lgf.im/tags/IP/">IP</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/why-reveice-connection-from-class-e-ip.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -207,29 +152,21 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/how-do-onion-service-work.html</link>
       <guid>https://blog.lgf.im/2020/how-do-onion-service-work.html</guid>
       <pubDate>Mon, 25 May 2020 06:13:37 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;昨天遇到了点问题，为了研究清楚原理，把Tor客户端与服务端通信的具体流程学习了一下，这篇博文写来记录&lt;/p&gt;
-&lt;h2 id=&quot;通信流程&quot;&gt;&lt;a href=&quot;#通信流程&quot; class=&quot;headerlink&quot;</description>
+            &lt;p&gt;昨天遇到了点问题，为了研究清楚原理，把Tor客户端与服务端通信的具体流程学习了一下，这篇博文写来记录&lt;/p&gt;
+&lt;h2 id=&quot;通信流程&quot;&gt;&lt;a href=&quot;#通信流程&quot; class=&quot;headerlink&quot;
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/tor/">tor</category>
-      
-      <category domain="https://blog.lgf.im/tags/onion/">onion</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/how-do-onion-service-work.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -237,32 +174,20 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/crack-sdu-online-exam-software.html</link>
       <guid>https://blog.lgf.im/2020/crack-sdu-online-exam-software.html</guid>
       <pubDate>Fri, 01 May 2020 13:44:54 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
+            &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/reverse/">reverse</category>
-      
-      <category domain="https://blog.lgf.im/tags/sdu/">sdu</category>
-      
-      <category domain="https://blog.lgf.im/tags/crack/">crack</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/crack-sdu-online-exam-software.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -270,29 +195,21 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/linux-add-swap.html</link>
       <guid>https://blog.lgf.im/2020/linux-add-swap.html</guid>
       <pubDate>Sun, 12 Apr 2020 12:38:26 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;给 linux 服务器添加swap做了好几次了，每一次都没记住，临时去网上查命令，这里特地记录一下&lt;/p&gt;
-&lt;h2 id=&quot;查看当前swap&quot;&gt;&lt;a href=&quot;#查看当前swap&quot; class=&quot;headerlink&quot;</description>
+            &lt;p&gt;给 linux 服务器添加swap做了好几次了，每一次都没记住，临时去网上查命令，这里特地记录一下&lt;/p&gt;
+&lt;h2 id=&quot;查看当前swap&quot;&gt;&lt;a href=&quot;#查看当前swap&quot; class=&quot;headerlink&quot;
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/linux/">linux</category>
-      
-      <category domain="https://blog.lgf.im/tags/swap/">swap</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/linux-add-swap.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -300,31 +217,21 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html</link>
       <guid>https://blog.lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html</guid>
       <pubDate>Sun, 12 Apr 2020 08:37:56 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;blockquote&gt;
-&lt;h3 id=&quot;UCloud已经对加速IP进行限制，本文中的方法即时失效&quot;&gt;&lt;a href=&quot;#UCloud已经对加速IP进行限制，本文中的方法即时失效&quot; class=&quot;headerlink&quot;</description>
+            &lt;blockquote&gt;
+&lt;h3 id=&quot;UCloud已经对加速IP进行限制，本文中的方法即时失效&quot;&gt;&lt;a href=&quot;#UCloud已经对加速IP进行限制，本文中的方法即时失效&quot; class=&quot;headerlink&quot;
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/ssh/">ssh</category>
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/ucloud/">ucloud</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -332,28 +239,22 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/kms.html</link>
       <guid>https://blog.lgf.im/2020/kms.html</guid>
       <pubDate>Wed, 08 Apr 2020 01:09:02 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;这是一个无聊的，老生常谈的话题&lt;/p&gt;
+            &lt;p&gt;这是一个无聊的，老生常谈的话题&lt;/p&gt;
 &lt;p&gt;我个人笔记本是自带的正版windows，但是在虚拟机里面的win却没有正版，我一般会用kms进行激活&lt;/p&gt;
-&lt;p&gt;github搜索kms会找到很多版本的kms激活服务端，比较出名的是这一个，可以一键运行起来：&lt;a</description>
+&lt;p&gt;github搜索kms会找到很多版本的kms激活服务端，比较出名的是这一个，可以一键运行起来：&lt;a
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/share/">share</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/kms/">kms</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/kms.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -361,32 +262,24 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/bake-sweet-potato.html</link>
       <guid>https://blog.lgf.im/2020/bake-sweet-potato.html</guid>
       <pubDate>Tue, 31 Mar 2020 03:17:57 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;blockquote&gt;
+            &lt;blockquote&gt;
 &lt;p&gt;这应该是我第一篇记录生活的博文吧，之前一直是写一些学习、技术相关的文章，总感觉博客不应该只记录这些东西，那就开始吧&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;妈妈从网上买了几斤红薯，今天突然说想吃，那就用烤箱烤一下吧&lt;/p&gt;
-&lt;h2</description>
+&lt;h2
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/life/">life</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/cooking/">cooking</category>
-      
-      <category domain="https://blog.lgf.im/tags/bake/">bake</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/bake-sweet-potato.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -394,30 +287,20 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/linux-suid.html</link>
       <guid>https://blog.lgf.im/2020/linux-suid.html</guid>
       <pubDate>Mon, 30 Mar 2020 03:36:25 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;h2 id=&quot;什么是SUID&quot;&gt;&lt;a href=&quot;#什么是SUID&quot; class=&quot;headerlink&quot; title=&quot;什么是SUID&quot;&gt;&lt;/a&gt;什么是SUID&lt;/h2&gt;&lt;p&gt;SUID简称位，英文全称是Set owner User ID up on</description>
+            &lt;h2 id=&quot;什么是SUID&quot;&gt;&lt;a href=&quot;#什么是SUID&quot; class=&quot;headerlink&quot; title=&quot;什么是SUID&quot;&gt;&lt;/a&gt;什么是SUID&lt;/h2&gt;&lt;p&gt;SUID简称位，英文全称是Set owner User ID up on
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/linux/">linux</category>
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/suid/">suid</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/linux-suid.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -425,31 +308,21 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/set-proxy-for-git.html</link>
       <guid>https://blog.lgf.im/2020/set-proxy-for-git.html</guid>
       <pubDate>Fri, 27 Mar 2020 07:45:02 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;近期，Github的直连速度一直不理想，甚至被墙或者MITM，最好的解决办法就是挂代理&lt;/p&gt;
-&lt;p&gt;Git 可以使用四种不同的协议来传输资料：本地协议（Local），HTTP 协议，SSH（Secure Shell）协议及 Git</description>
+            &lt;p&gt;近期，Github的直连速度一直不理想，甚至被墙或者MITM，最好的解决办法就是挂代理&lt;/p&gt;
+&lt;p&gt;Git 可以使用四种不同的协议来传输资料：本地协议（Local），HTTP 协议，SSH（Secure Shell）协议及 Git
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/github/">github</category>
-      
-      <category domain="https://blog.lgf.im/tags/proxy/">proxy</category>
-      
-      <category domain="https://blog.lgf.im/tags/git/">git</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/set-proxy-for-git.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -457,32 +330,20 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/mitm-https-hijack-github.html</link>
       <guid>https://blog.lgf.im/2020/mitm-https-hijack-github.html</guid>
       <pubDate>Fri, 27 Mar 2020 00:47:11 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;昨天下午两点多，突然在一个站长群里听到有人说 Github Pages</description>
+            &lt;p&gt;昨天下午两点多，突然在一个站长群里听到有人说 Github Pages
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/github/">github</category>
-      
-      <category domain="https://blog.lgf.im/tags/MITM/">MITM</category>
-      
-      <category domain="https://blog.lgf.im/tags/https/">https</category>
-      
-      <category domain="https://blog.lgf.im/tags/hijack/">hijack</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/mitm-https-hijack-github.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -490,31 +351,21 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/redirect-in-shell.html</link>
       <guid>https://blog.lgf.im/2020/redirect-in-shell.html</guid>
       <pubDate>Tue, 24 Mar 2020 07:50:07 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;经常会看到别人的shell脚本后面有一个 &lt;code&gt;2&amp;gt;&amp;amp;1&lt;/code&gt; ，一直没去深究，今天这个话题就以这个为出发点进行展开，学习一下linux shell中重定向的话题。&lt;/p&gt;
-&lt;h2 id=&quot;特殊的东西&quot;&gt;&lt;a href=&quot;#特殊的东西&quot;</description>
+            &lt;p&gt;经常会看到别人的shell脚本后面有一个 &lt;code&gt;2&amp;gt;&amp;amp;1&lt;/code&gt; ，一直没去深究，今天这个话题就以这个为出发点进行展开，学习一下linux shell中重定向的话题。&lt;/p&gt;
+&lt;h2 id=&quot;特殊的东西&quot;&gt;&lt;a href=&quot;#特殊的东西&quot;
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/linux/">linux</category>
-      
-      <category domain="https://blog.lgf.im/tags/shell/">shell</category>
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/redirect-in-shell.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -522,30 +373,22 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/dns-srv-record.html</link>
       <guid>https://blog.lgf.im/2020/dns-srv-record.html</guid>
       <pubDate>Tue, 24 Mar 2020 05:54:03 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;p&gt;SRV记录是服务器资源记录的缩写，是DNS服务器的数据库中支持的一种记录服务器提供的服务资源的记录，主要作用是说明一个服务器能够提供什么样的服务。&lt;/p&gt;
+            &lt;p&gt;SRV记录是服务器资源记录的缩写，是DNS服务器的数据库中支持的一种记录服务器提供的服务资源的记录，主要作用是说明一个服务器能够提供什么样的服务。&lt;/p&gt;
 &lt;p&gt;简单来说，SRV记录了哪台计算机提供了哪个服务这么一个简单的信息。&lt;/p&gt;
-&lt;p&gt;SRV记录是DNS记录中的新鲜</description>
+&lt;p&gt;SRV记录是DNS记录中的新鲜
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/DNS/">DNS</category>
-      
-      <category domain="https://blog.lgf.im/tags/SRV/">SRV</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/dns-srv-record.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -553,30 +396,20 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/mysql-concat-concat-ws-group-concat.html</link>
       <guid>https://blog.lgf.im/2020/mysql-concat-concat-ws-group-concat.html</guid>
       <pubDate>Sun, 22 Mar 2020 10:23:34 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;h2 id=&quot;讲解与示例&quot;&gt;&lt;a href=&quot;#讲解与示例&quot; class=&quot;headerlink&quot; title=&quot;讲解与示例&quot;&gt;&lt;/a&gt;讲解与示例&lt;/h2&gt;&lt;h3 id=&quot;CONCAT-str1-str2-…&quot;&gt;&lt;a href=&quot;#CONCAT-str1-str2-…&quot;</description>
+            &lt;h2 id=&quot;讲解与示例&quot;&gt;&lt;a href=&quot;#讲解与示例&quot; class=&quot;headerlink&quot; title=&quot;讲解与示例&quot;&gt;&lt;/a&gt;讲解与示例&lt;/h2&gt;&lt;h3 id=&quot;CONCAT-str1-str2-…&quot;&gt;&lt;a href=&quot;#CONCAT-str1-str2-…&quot;
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/sql/">sql</category>
-      
-      <category domain="https://blog.lgf.im/tags/mysql/">mysql</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/mysql-concat-concat-ws-group-concat.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -584,30 +417,20 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/hack-hackbar.html</link>
       <guid>https://blog.lgf.im/2020/hack-hackbar.html</guid>
       <pubDate>Sun, 22 Mar 2020 02:11:42 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
+            &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/HackBar/">HackBar</category>
-      
-      <category domain="https://blog.lgf.im/tags/CTF/">CTF</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/hack-hackbar.html#disqus_thread</comments>
-      
     </item>
     
     <item>
@@ -615,32 +438,20 @@ This blog is used to record my study, thinking and life.</description>
       <link>https://blog.lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</link>
       <guid>https://blog.lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</guid>
       <pubDate>Sat, 21 Mar 2020 01:24:56 GMT</pubDate>
+      <description>
       
         
         
           
           
-      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;很多同学和我一样也在用Hexo搭建自己的博客，通常最后发布的操作是 &lt;code&gt;hexo g&lt;/code&gt; 生成静态网页，然后</description>
+            &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;很多同学和我一样也在用Hexo搭建自己的博客，通常最后发布的操作是 &lt;code&gt;hexo g&lt;/code&gt; 生成静态网页，然后
           
         
       
-      
-      
-      
-      <category domain="https://blog.lgf.im/categories/coding/">coding</category>
-      
-      
-      <category domain="https://blog.lgf.im/tags/coding/">coding</category>
-      
-      <category domain="https://blog.lgf.im/tags/Github/">Github</category>
-      
-      <category domain="https://blog.lgf.im/tags/CICD/">CICD</category>
-      
-      <category domain="https://blog.lgf.im/tags/hexo/">hexo</category>
+      </description>
       
       
       <comments>https://blog.lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html#disqus_thread</comments>
-      
     </item>
     
   </channel>

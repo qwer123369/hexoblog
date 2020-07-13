@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/css" href="/css/rss.css" ?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -17,7 +17,7 @@
     
     <description>Hi, I&#39;m zu1k, a boy dreaming of traveling around the world. 
 This blog is used to record my study, thinking and life.</description>
-    <pubDate>Mon, 13 Jul 2020 14:13:41 GMT</pubDate>
+    <pubDate>Mon, 13 Jul 2020 14:14:48 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>

@@ -153,5 +153,5 @@ feed:
   icon: https://cdn.jsdelivr.net/gh/zu1k/cdn@cdn/images/logo.jpg
   autodiscovery: true
   template:
-    - ./source/custom.xml
+    - ./source/feed/rss2.xml
   

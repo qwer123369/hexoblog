@@ -33,7 +33,7 @@ date: 2020-06-18 09:06:25
 
 使用 `-h` 查看帮助
 
-```
+```shell
 PS > .\xray-cracker -h
 破解xray高级版证书，使用 -h 参数查看使用帮助
 
@@ -50,7 +50,7 @@ Usage of xray-cracker:
 
 使用 `-g username` 生成永久证书
 
-```
+```shell
 PS > .\xray-cracker -g "我叫啥"
 破解xray高级版证书，使用 -h 参数查看使用帮助
 
@@ -61,7 +61,7 @@ PS > .\xray-cracker -g "我叫啥"
 
 使用 `-c path-to-xray` 修改xray内置公钥
 
-```
+```shell
 PS > .\xray-cracker -c .\xray_windows_amd64.exe
 破解xray高级版证书，使用 -h 参数查看使用帮助
 
@@ -72,12 +72,11 @@ public key index: 16741321
 > 工具虽然是windows平台下运行，但是照样可以破解其他平台xray  
 > 目前xray最新版是1.0.0，现在全平台全版本通杀
 
-
 ## 破解效果
 
 使用修改版xray和永久证书后，效果如下
 
-```
+```shell
 PS > .\xray_windows_amd64.exe version
 
  __   __  _____              __     __
@@ -100,12 +99,40 @@ Not Valid Before: 2020-06-12 00:00:00
 Not Valid After: 2099-09-09 08:00:00
 ```
 
+## 部分细节
+
+> 距离博文发布已经过了快一个月了，补充一点点细节信息，希望能够帮助到部分研究学习的同学
+
+这里只给出使用的关键函数和关键流程，一些重要参数细节需要自己探索，可以动态单步调试获得
+
+### AES解密
+
+```go
+decode_data, err := base64.StdEncoding.DecodeString(licenseString)
+if err != nil {
+  panic(err)
+}
+
+aesDecData, err := AesCBCDecryptAndUnPad(decode_data[17:])
+if err != nil {
+  panic(err)
+}
+
+licensePlainJsonBytes := aesDecData[0x102:]
+```
+
+### RSA签名验证
+
+```go
+sum := sha256.Sum256(licensePlainJsonBytes)
+err = rsa.VerifyPSS(pubKey, crypto.SHA256, sum[:], aesDecData[2:0x102], nil)
+```
+
 ## 工具获取
 
 就不提供工具的公开下载了，如果需要交流学习欢迎邮件联系我
 
-> 如果单纯是想要工具就不要联系我了，我希望在发邮件前你能够自己先对xray有一定的深入了解
-
+> 如果单纯是想要工具不要联系我，只是为了研究学习，正式使用请支持正版
 
 ## 说明
 

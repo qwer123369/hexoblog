@@ -1,5 +1,5 @@
 ---
-title: Telegram 关键词机器人
+title: Telegram关键词自动回复机器人
 date: 2019-11-26 19:03:35
 tags: 
     - telegram
@@ -7,6 +7,40 @@ tags:
     - coding
 categories:
     - coding
+keywords:
+    - telegram
+    - tgbot
+    - bot
+    - tg
+    - autoreply
+    - regex
+    - 正则表达式
+    - 关键词
+    - 关键词回复
+    - 关键词自动回复
+    - 自动回复机器人
+    - 机器人
+    - 关键词机器人
+    - 关键词自动回复机器人
+    - 正则匹配
+    - 群主助手
+    - 群主小秘
+    - 群管家
+    - 群主帮手
+    - tg机器人
+    - telegram机器人
+    - 添加规则
+    - 规则匹配
+    - 删除规则
+    - 规则管理
+    - 群组管理
+    - 自动禁言
+    - 自动群管
+    - 自动封禁
+    - 自动踢出
+    - Markdown
+    - 用户信息
+    - 开源
 ---
 
 ## 前言

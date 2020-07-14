@@ -139,19 +139,18 @@ baidu_url_submit:
 
 feed:
   type:
-    - rss2
     - atom
+    - rss2
   path:
-    - rss2.xml
     - atom.xml
-  limit: 20
+    - rss2.xml
+  limit: 0
   hub:
-  content:
+  content: true
   content_limit: 140
-  content_limit_delim: ' '
-  order_by: -date
   icon: https://cdn.jsdelivr.net/gh/zu1k/cdn@cdn/images/logo.jpg
   autodiscovery: true
   template:
+    - ./source/feed/atom.xml
     - ./source/feed/rss2.xml
   

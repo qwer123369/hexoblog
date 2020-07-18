@@ -14,10 +14,12 @@ date: 2020-07-17 13:39:47
 ## Feature
 
 - Chunzhen qqip database
+- ZX ipv6 database
 - Geoip2 city database
 - Pipeline support
 - Interactive query
 - Offline query
+- Both ipv4 and ipv6 supported
 
 ## Install
 
@@ -116,6 +118,22 @@ bash abc.sh | nali
 
 Nali will insert ip information after ip
 
+### IPV6 support
+
+Use like ipv4
+
+```
+➜  ~ nslookup google.com | nali
+Server:         127.0.0.53 [局域网 IP]
+Address:        127.0.0.53 [局域网 IP]#53
+
+Non-authoritative answer:
+Name:   google.com
+Address: 216.58.211.110 [美国 Google全球边缘网络]
+Name:   google.com
+Address: 2a00:1450:400e:809::200e [荷兰Amsterdam Google Inc. 服务器网段]
+```
+
 ## Interface
 
 ### Help
@@ -172,8 +190,9 @@ export NALI_DB=geoip
 - [纯真QQIP离线数据库](http://www.cz88.net/fox/ipdat.shtml)
 - [qqwry mirror](https://qqwry.mirror.noc.one/)
 - [qqwry纯真数据库解析](https://github.com/yinheli/qqwry)
+- [ZX公网ipv6数据库](https://ip.zxinc.org/ipquery/)
 - [Geoip2 city数据库](https://www.maxmind.com/en/geoip2-precision-city-service)
-- [geoip2-golang解析器](github.com/oschwald/geoip2-golang)
+- [geoip2-golang解析器](https://github.com/oschwald/geoip2-golang)
 - [Cobra CLI库](https://github.com/spf13/cobra)
 - [Nali-cli](https://github.com/SukkaW/nali-cli)
 

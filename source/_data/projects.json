@@ -8,5 +8,10 @@
       "name":"BlogStorm",
       "url":"https://github.com/blogstorm",
       "desc":"基于RSS的博文汇集阅读和智能推荐系统."
+   },
+   {
+      "name":"Nali",
+      "url":"https://github.com/zu1k/nali",
+      "desc":"一个查询IP地理信息和CDN服务提供商的离线终端工具."
    }
 ]

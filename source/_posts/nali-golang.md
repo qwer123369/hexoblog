@@ -2,15 +2,22 @@
 title: Nali IP地理信息和CDN服务商查询
 tags:
   - coding
-  - nali
 categories:
   - coding
 date: 2020-07-17 13:39:47
 ---
 
-> 写了一个查询IP地理信息和CDN提供商的离线终端工具
+[Nali](https://github.com/zu1k/nali)
 
-[Nali](https://nali.lgf.im)
+> 一个查询IP地理信息和CDN提供商的离线终端工具
+
+## 来源
+
+该工具受 [Nali C版本](https://github.com/meteoral/Nali) 和 [nali-cli js版本](https://github.com/SukkaW/nali-cli) 的启发.
+
+我想要在终端对IP地理信息和CDN服务提供商进行查询，发现了Nali这个工具，Nali与哪里谐音，非常适合这类工具
+
+经过简单的使用，我发现最初的C语言版本功能缺失，而苏卡卡大佬的js版本包实在大的恐怖、而支持的平台非常有限，所以我用golang重写了这个工具，在原有功能的基础上增加了对IPv6的支持，并且增加了Geoip2数据库
 
 ## 功能
 
@@ -22,6 +29,7 @@ date: 2020-07-17 13:39:47
 - 支持交互式查询
 - 同时支持IPv4和IPv6
 - 查询完全离线
+- 全平台支持
 
 ## 安装
 
@@ -46,6 +54,8 @@ docker pull docker.pkg.github.com//zu1k/nali/nali:latest
 ```
 
 ## 使用说明
+
+<a href="https://asciinema.org/a/RFVaZ3Pwy0Qbr27msFcDYhwcD" target="_blank"><img width="520" src="https://asciinema.org/a/RFVaZ3Pwy0Qbr27msFcDYhwcD.svg" /></a>
 
 ### 查询一个IP的地理信息
 

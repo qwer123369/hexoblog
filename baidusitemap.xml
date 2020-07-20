@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.lgf.im/2018/xss-payload.html</loc>
-    <lastmod>2020-07-20</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2020/yuketang-exam-block-report.html</loc>
-    <lastmod>2020-07-20</lastmod>
-  </url>  <url>
     <loc>https://blog.lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html</loc>
-    <lastmod>2020-07-20</lastmod>
-  </url>  <url>
-    <loc>https://blog.lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</loc>
     <lastmod>2020-07-20</lastmod>
   </url>  <url>
     <loc>https://blog.lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
     <lastmod>2020-07-20</lastmod>
   </url>  <url>
     <loc>https://blog.lgf.im/2020/xray-cracker.html</loc>
+    <lastmod>2020-07-20</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2018/xss-payload.html</loc>
+    <lastmod>2020-07-20</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2020/yuketang-exam-block-report.html</loc>
     <lastmod>2020-07-20</lastmod>
   </url>  <url>
     <loc>https://blog.lgf.im/2018/send-mail-via-endmail-service.html</loc>
@@ -50,6 +47,9 @@
     <lastmod>2020-07-20</lastmod>
   </url>  <url>
     <loc>https://blog.lgf.im/2020/ubuntu-iptables-nat.html</loc>
+    <lastmod>2020-07-20</lastmod>
+  </url>  <url>
+    <loc>https://blog.lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</loc>
     <lastmod>2020-07-20</lastmod>
   </url>  <url>
     <loc>https://blog.lgf.im/2019/pirated-movie.html</loc>
@@ -142,10 +142,10 @@
     <loc>https://blog.lgf.im/2020/crack-sdu-online-exam-software.html</loc>
     <lastmod>2020-07-20</lastmod>
   </url>  <url>
-    <loc>https://blog.lgf.im/2019/bad-experience-with-name.html</loc>
+    <loc>https://blog.lgf.im/2020/bake-sweet-potato.html</loc>
     <lastmod>2020-07-20</lastmod>
   </url>  <url>
-    <loc>https://blog.lgf.im/2020/bake-sweet-potato.html</loc>
+    <loc>https://blog.lgf.im/2019/bad-experience-with-name.html</loc>
     <lastmod>2020-07-20</lastmod>
   </url>
 </urlset>

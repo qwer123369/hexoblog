@@ -19,11 +19,13 @@ date: 2020-07-17 13:39:47
 
 经过简单的使用，我发现最初的C语言版本功能缺失，而苏卡卡大佬的js版本包实在大的恐怖、而支持的平台非常有限，所以我用golang重写了这个工具，在原有功能的基础上增加了对IPv6的支持，并且增加了Geoip2数据库
 
+
 ## 功能
 
 - 纯真 IPv4 离线数据库
 - ZX IPv6 离线数据库
 - Geoip2 城市数据库 (可选)
+- IPIP 数据库 (可选)
 - CDN 服务提供商查询
 - 支持管道处理
 - 支持交互式查询
@@ -242,14 +244,44 @@ $ nali update
 
 #### Windows平台
 
+##### 使用geoip数据库
+
 ```
 set NALI_DB=geoip
 ```
 
+##### 使用ipip数据库
+
+```
+set NALI_DB=ipip
+```
+
 #### Linux平台
+
+##### 使用geoip数据库
 
 ```
 export NALI_DB=geoip
+```
+
+##### 使用ipip数据库
+
+```
+export NALI_DB=ipip
+```
+
+### 更换数据库目录
+
+如果未指定数据库存放目录，数据库默认将存放在 `~/.nali`
+
+设置环境变量 `NALI_DB_HOME` 来指定数据库目录
+
+```
+set NALI_DB_HOME=D:\nalidb
+
+or
+
+export NALI_DB_HOME=/home/nali
 ```
 
 ## 感谢列表
@@ -261,6 +293,8 @@ export NALI_DB=geoip
 - [Geoip2 city数据库](https://www.maxmind.com/en/geoip2-precision-city-service)
 - [geoip2-golang解析器](https://github.com/oschwald/geoip2-golang)
 - [CDN provider数据库](https://github.com/SukkaLab/cdn)
+- [IPIP数据库](https://www.ipip.net/product/ip.html)
+- [IPIP数据库解析](https://github.com/ipipdotnet/ipdb-go)
 - [Cobra CLI库](https://github.com/spf13/cobra)
 - [Nali-cli](https://github.com/SukkaW/nali-cli)
 

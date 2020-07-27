@@ -340,7 +340,6 @@ button::后面的json格式如下
 
 一共有两种方式可以给这个机器人提供赞助
 
-- 通过购买虚拟卡片，[在线购买](https://www.kuaifaka.com/purchasing?link=peekfun)
 - 通过邮箱联系我，然后索要我的赞赏码或者其他收款方式
 
 ## 问题反馈

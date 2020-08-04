@@ -262,7 +262,7 @@ random{回复内容1$$回复内容2$$回复内容3}，使用两个英文的$符�
 
 /goodbye
 开启后，可以设置内容
-/set/goodbyetext $username离开了我们群
+/setgoodbyetext $username离开了我们群
 ```
 
 > 注意：加群欢迎和退群欢送文字默认开启markdown语法
